@@ -1,0 +1,23 @@
+name: Bohemian Bicycles
+favicon: null
+layout_spectrum: 0.03769321576692164
+typography_spectrum: 0.06373165990225971
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5183489124756306
+  lightness: 0.7458315270487219
+  saturation: 0.5785467685200274
+  rhythmicContrast: 0.3143446655012667
+purpose: []
