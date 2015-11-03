@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://slate.adobe.com/cp/ts5O3/'
 title: RICHARD SACHS
-datePublished: '2015-11-03T00:18:11.713Z'
-dateModified: '2015-11-03T00:09:54.149Z'
+datePublished: '2015-11-03T00:18:15.595Z'
+dateModified: '2015-11-03T00:18:11.713Z'
 sourcePath: _posts/2015-11-03-richard-sachs.md
 published: true
 inFeed: true
